@@ -572,8 +572,6 @@ Como mejora futura, se propone:
 Marcelo Briceño Delgado
 ```
 
-Añadir aquí los demás integrantes del equipo, si corresponde.
-
 ---
 
 ## Propósito académico
