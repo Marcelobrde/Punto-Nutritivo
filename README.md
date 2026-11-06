@@ -241,7 +241,7 @@ Para ejecutar el proyecto se necesita:
 ### 1. Clonar el repositorio
 
 ```bash
-git clone [URL_DEL_REPOSITORIO]
+git clone https://github.com/Marcelobrde/Punto-Nutritivo.git
 ```
 
 ### 2. Entrar en la carpeta del proyecto
@@ -507,7 +507,7 @@ Acción destructiva: #C62828
 ### Enlace de Figma
 
 ```text
-[PEGAR_ENLACE_DE_FIGMA]
+https://www.figma.com/design/s5Dpa54wKBT6M2ElXG7wFR/Restaurante-Punto-Nutritivo?m=auto&t=KvHcBsXR4semko8m-1
 ```
 
 ---
@@ -515,7 +515,7 @@ Acción destructiva: #C62828
 ## Repositorio
 
 ```text
-[PEGAR_ENLACE_DE_GITHUB]
+https://github.com/Marcelobrde/Punto-Nutritivo
 ```
 
 ---
