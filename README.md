@@ -247,7 +247,7 @@ git clone https://github.com/Marcelobrde/Punto-Nutritivo.git
 ### 2. Entrar en la carpeta del proyecto
 
 ```bash
-cd punto-nutritivo
+cd Punto-Nutritivo
 ```
 
 ### 3. Instalar las dependencias
